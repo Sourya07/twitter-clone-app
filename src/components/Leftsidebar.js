@@ -26,11 +26,11 @@ function Leftsidebar() {
                 </div>
                 <div className='flex items-center  my-2 px-4 py-2 hover:bg-gray-200 hover:cursor-pointer rounded-full'>
                <div > <CiHashtag  size={"24px"}/></div>
-                <h1 className='ml-2'>Explore</h1>
+                <h1 className='ml-2'>Explore.</h1>
                 </div>
                 <div className='flex items-center  my-2 px-4 py-2 hover:bg-gray-200 hover:cursor-pointer rounded-full'>
                <div > <IoIosLogOut  size={"24px"}/></div>
-                <h1 className='ml-2'>Logout</h1>
+                <h1 className='ml-2'>Logout.</h1>
                 </div>
               <button className='hover:cursor bg-sky-500/100 rounded-lg hover:bg-sky-400 w-full px-4 py-2 m-2 font-bold text-white'>
               Tweet</button>
