@@ -2,7 +2,7 @@ import React from 'react'
 
 function Feed() {
   return (
-    <div>Fee hello</div>
+    <div>Feed hello</div>
   )
 }
 
