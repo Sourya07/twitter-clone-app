@@ -6,7 +6,7 @@ import { IoIosNotificationsOutline } from "react-icons/io";
 import { IoIosLogOut } from "react-icons/io";
 function Leftsidebar() {
   return (
-    <div>
+    <div className='w-[20%]'>
         <div>
             <div>
                 <img className='m-4' width={"25px"} src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" ></img>
