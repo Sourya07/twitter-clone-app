@@ -20,11 +20,11 @@ function CreatePost() {
                     </div>
                     <input className='w-full outline-none border-none text-lg' type='text' placeholder='Write a post ? '></input>
                 </div>
-                <div className='flex items-center justify-between py-4 border-b border-gray-300'>
+                <div className='flex items-center justify-between py-3 px-1 border-b border-gray-300'>
                     <div>
                         <CiImageOn />
                     </div>
-                    <button className='bg-[#1D9BF0] px-3 py-1 border-none rounded-full text-lg text-white '>Post </button>
+                    <button className='bg-[#1D9BF0] px-3 py-1 border-none rounded-full text-lg text-white '>Post</button>
                 </div>
 
             </div>
